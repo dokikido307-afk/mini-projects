@@ -1,0 +1,10 @@
+print("8 C N B Q K B N C")
+print("7 P P P P P P P P")
+print("6 . . . . . . . .")
+print("5 . . . . . . . .")
+print("4 . . . . . . . .")
+print("3 . . . . . . . .")
+print("2 p p p p p p p p")
+print("1 c n b q k b n c")
+print("  A B C D E F G H")
+# This code prints a representation of a chess board with pieces in their starting positions.
